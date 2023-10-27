@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Arachneee's%20GitHub%20&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArachneee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-# 💪STACKS
-### Languages & FrameWork
+ 
+### 💪 Languages & FrameWork
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=plastic&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=plastic&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white)
