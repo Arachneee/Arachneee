@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" align="center"/>
 
 <h3 align="center">👋 Hi there 👋</h3>
 
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 <br>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arachneee&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arachneee&show_icons=true&theme=dark)](https://github.com/Arachneee/github-readme-stats)
 </div>
