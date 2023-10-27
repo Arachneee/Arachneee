@@ -1,6 +1,6 @@
 <p align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Arachneee's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Arachneee's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 </p>
 
 <h3 align="center">👋 Hi there 👋</h3>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 <h3 align="center">🔨 Teck Stack 🔨</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396c?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black"></a>&nbsp
@@ -36,3 +36,10 @@ Here are some ideas to get you started:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arachneee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<div align="center">
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhg2819)](https://solved.ac/jhg2819/)
+</div>
+
+
