@@ -14,6 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
 ![Git Hub](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=GitHub&logoColor=white)
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
 <br>
 
