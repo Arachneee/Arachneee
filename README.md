@@ -9,6 +9,8 @@
 <br>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=plastic&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=plastic&logo=Spring%20Boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA%20(Hibernate)-00485B.svg?&style=plastic&logo=Hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-6933FF.svg?&style=plastic&logo=QueryDSL&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
