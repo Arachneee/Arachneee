@@ -13,13 +13,6 @@
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-6933FF.svg?&style=plastic&logo=QEMU&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=plastic&logo=MySQL&logoColor=white)
 <br>
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=plastic&logo=Git&logoColor=white)
-![Git Hub](https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=GitHub&logoColor=white)
-![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDEA-0076D6.svg?&style=plastic&logo=IntelliJ%20IDEA&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-6DB33F.svg?&style=plastic&logo=PyCharm&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=plastic&logo=Visual%20Studio%20Code&logoColor=white)
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arachneee&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
